@@ -24,14 +24,15 @@ El proyecto contiene los siguientes elementos:
 - video.html: archivo HTML de la página web.
 - README.md: documento con la descripción de la práctica.
 
-#4. Dificultades encontradas y soluciones
+4. Dificultades encontradas y soluciones
 
 Durante la práctica encontré un mensaje que indicaba que la carpeta actual no era un repositorio de Git. Para resolverlo, volví a ejecutar el comando git init en la carpeta del proyecto.
 al mismo tiempo tuve dificultades en la ruta para agragar mis documentos, ya que copiaba la ruta manualmente, lo resolvi copiando desde la ruta
 También observé que Git mostraba mis carpetas y archivos como elementos sin seguimiento (untracked files). Esto significa que todavía no estaban agregados al control de versiones. Para solucionarlo, utilicé git add . y después registré los cambios con git commit.
 
-## 5. Conclusión
+ 5. Conclusión
 
 Esta práctica me permitió conocer los comandos básicos de Git y comprender cómo se inicializa un repositorio, cómo se identifican los archivos pendientes y cómo se registran los cambios de un proyecto.
 
 Además, aprendí la importancia de documentar el trabajo mediante un archivo README para facilitar la comprensión del proyecto.
+
